@@ -1,0 +1,16 @@
+.input-group {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.customColor {
+  color:blue;
+}
+
+img{
+  border-radius: 10px;
+}
+
+#Title{
+  text-align: left;
+}
