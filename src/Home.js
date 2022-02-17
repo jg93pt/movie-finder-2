@@ -18,8 +18,7 @@ const Movie = (props) => {
           <img src={Poster} className="img-fluid" />
         </Link>
       </div>
-      <div className="col-4 col-md-9 my-3" id="Title
-      ">
+      <div className="col-4 col-md-9 my-3" id="Title">
         <Link to={`/movie/${imdbID}/`}>
           <h4>{Title}</h4>
           <p>{Type} | {Year}</p>
