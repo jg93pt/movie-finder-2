@@ -13,7 +13,7 @@ const App = () => {
   return (
     <Router>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <Link className="navbar-brand col-12 text-center" to="/"><h3 class="customColor">Movie Finder</h3></Link>
+        <Link className="navbar-brand col-12 text-center" to="/"><h3 class="customColor">Movie Finder 2</h3></Link>
       </nav>
       <Switch>
         <Route path="/" exact component={Home} />
